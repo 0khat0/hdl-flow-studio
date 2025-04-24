@@ -20,6 +20,8 @@
   - Pass/fail output with summary
 
 ---
+![image](https://github.com/user-attachments/assets/dd087a63-95ff-43c5-b965-db83f919ef43)
+
 
 ## 🗂️ Project Structure
 
