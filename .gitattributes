@@ -1,0 +1,3 @@
+# .gitattributes
+*.vhdl linguist-language=VHDL
+*.tcl linguist-language=Tcl
