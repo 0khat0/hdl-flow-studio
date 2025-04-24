@@ -1,0 +1,9 @@
+===== reports\build_summary.txt =====
+
+Build Summary Report
+--------------------
+Synthesis Errors: 1
+Synthesis Warnings: 1
+LUTs Used: 123
+FFs Used: 78
+

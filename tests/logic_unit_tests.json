@@ -1,0 +1,7 @@
+[
+    { "a": "0", "b": "0", "expected_y1": "0", "expected_y2": "0", "expected_y3": "1" },
+    { "a": "0", "b": "1", "expected_y1": "1", "expected_y2": "1", "expected_y3": "1" },
+    { "a": "1", "b": "0", "expected_y1": "1", "expected_y2": "1", "expected_y3": "0" },
+    { "a": "1", "b": "1", "expected_y1": "1", "expected_y2": "0", "expected_y3": "0" }
+  ]
+  

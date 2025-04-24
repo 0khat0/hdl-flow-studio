@@ -1,0 +1,14 @@
+
+===== Simulation: and_gate =====
+a=0 b=0 -> y=0 (expected: 0) PASS
+a=0 b=1 -> y=0 (expected: 0) PASS
+a=1 b=0 -> y=0 (expected: 0) PASS
+a=1 b=1 -> y=1 (expected: 1) PASS
+4/4 tests passed
+
+===== Simulation: logic_unit =====
+a=0 b=0 -> y1=0 (expected: 0) PASS
+a=0 b=1 -> y1=1 (expected: 1) PASS
+a=1 b=0 -> y1=1 (expected: 1) PASS
+a=1 b=1 -> y1=1 (expected: 1) PASS
+4/4 tests passed

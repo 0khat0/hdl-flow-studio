@@ -1,0 +1,6 @@
+===== logs\synthesis.log =====
+
+INFO: Synthesis started
+WARNING: This is just a test warning
+INFO: Synthesis finished
+ERROR: This is an error
